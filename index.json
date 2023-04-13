@@ -1,0 +1,37 @@
+{
+  "title": "FastAPI Database",
+  "description": "Pada exercise ini, kita akan belajar menggunakan database dan ORM pada FastAPI",
+  "time": "30 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Database di FastAPI",
+        "path": "step1.md",
+        "type": "markdown"
+      },
+      {
+        "title": "Menambah API",
+        "path": "step2.md",
+        "type": "markdown"
+      },
+      {
+        "title": "Mengubah Koneksi Database",
+        "path": "step3.md",
+        "type": "markdown"
+      }
+    ],
+    "intro": {
+      "content": "intro.md"
+    },
+    "finish": {
+      "content": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "editor-web"
+  },
+  "backend": {
+    "imageid": "playground-v2",
+    "open_ports": [80, 8000, 8080]
+  }
+}
